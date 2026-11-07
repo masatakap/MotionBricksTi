@@ -6,12 +6,6 @@ NVIDIAのMotionBricksをベースに、MASATAKAが制作したモーション編
 
 An independently customized motion editing and Unreal Engine integration tool by MASATAKA, based on NVIDIA MotionBricks.
 
-### 紹介映像 / Promotional video
-
-[![MotionBricks Ti Bridge PV / Promotional video](https://img.youtube.com/vi/4TVNtszjr3g/maxresdefault.jpg)](https://youtu.be/4TVNtszjr3g)
-
-[▶ YouTubeでPVを見る / Watch the promotional video on YouTube](https://youtu.be/4TVNtszjr3g)
-
 [日本語](#日本語) · [English](#english)
 
 ---
