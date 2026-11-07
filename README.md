@@ -6,6 +6,10 @@ NVIDIAのMotionBricksをベースに、モーション編集をはじめとし�
 
 An enhanced tool based on NVIDIA MotionBricks, with convenient features for motion editing and production. It supports Unreal Engine integration, importing motion generated with Kimodo, and loading PMX/PMD target models and exporting VMD motion for MikuMikuDance.
 
+### 紹介映像 / Promotional video
+
+https://github.com/user-attachments/assets/b97f51d8-d9ea-477f-b890-81d7a7587abb
+
 [日本語](#日本語) · [English](#english)
 
 ---
