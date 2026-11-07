@@ -2,9 +2,9 @@
 
 **公開準備中 / Public release in preparation**
 
-NVIDIAのMotionBricksをベースに、MASATAKAが制作したモーション編集・Unreal Engine連携ツールです。
+NVIDIAのMotionBricksをベースに、モーション編集をはじめとした便利な機能を追加した拡張ツールです。Unreal Engineとの連携、Kimodoで生成したモーションの取り込み、MikuMikuDance向けのモデル読込（PMX／PMD）・モーション出力（VMD）に対応しています。
 
-An independently customized motion editing and Unreal Engine integration tool by MASATAKA, based on NVIDIA MotionBricks.
+An enhanced tool based on NVIDIA MotionBricks, with convenient features for motion editing and production. It supports Unreal Engine integration, importing motion generated with Kimodo, and loading PMX/PMD target models and exporting VMD motion for MikuMikuDance.
 
 [日本語](#日本語) · [English](#english)
 
