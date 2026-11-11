@@ -1,0 +1,17 @@
+{
+  "schema": "motionbricks-ti-independent-interactions",
+  "version": 1,
+  "clips": {
+    "walk": {"kind": "kimodo-role", "role_id": "walk_forward"},
+    "run": {"kind": "kimodo-role", "role_id": "run_forward"},
+    "vault_050": {"kind": "kimodo-role", "role_id": "vault_050"},
+    "vault_075_hand": {"kind": "kimodo-role", "role_id": "vault_075"},
+    "vault_075_free": {"kind": "kimodo-role", "role_id": "vault_075_no_hand"},
+    "duck_walk": {"kind": "kimodo-role", "role_id": "duck_walk"},
+    "duck_jog": {"kind": "kimodo-role", "role_id": "duck_jog"},
+    "sit_down": {"kind": "kimodo-role", "role_id": "sit_down"},
+    "seated_idle": {"kind": "kimodo-role", "role_id": "seated_idle"},
+    "stand_up": {"kind": "kimodo-role", "role_id": "stand_up"}
+  },
+  "status": "Replacement role references for review; original retired assets are not restored. Geometry fit checked per object; motion quality remains pending."
+}

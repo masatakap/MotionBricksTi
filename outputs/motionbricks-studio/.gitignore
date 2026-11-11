@@ -1,0 +1,31 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual Environments
+.venv
+
+# IDE
+.vscode/settings.json
+
+# Log files, settings
+imgui.ini
+
+# Local TensorRT plans
+.trt-cache/
+
+# Downloaded checkpoints for the ONNX exporter
+checkpoints/
+
+.context/
+
+# Studio local projects, poses and exports
+user_data/*
+!user_data/poses/
+!user_data/examples/
+!user_data/library_categories.json
+# Libraries/projects are versioned; recovery, logs, live UE state and exports are local.

@@ -1,0 +1,388 @@
+{
+  "schema": "masataka-owned-contributions-cc0-v1",
+  "affirmer": "MASATAKA",
+  "profile": "https://x.com/masatakaP",
+  "license": "CC0-1.0",
+  "scope": "Only rights owned by MASATAKA in the specified contribution; third-party material excluded",
+  "files": [
+    {
+      "path": "outputs/motionbricks-studio/app/inbetweener_demo.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "467987b0058b9f264897ec8046c047187432c3d47aebf84c39c123896d08e659",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/native/studio_fbx.cpp",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "4fa31e3943d465aecd8462a47b9d4443f3929c5fd6e43027a6d8e2e2c27650c6",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/native/studio_fbx_read.cpp",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "9ef481376d89f22df52bdcf88fd53bbabebc2d8c1c89c8e0cc766838bb180460",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "ba1766323059068f4164666cf2b2ed191ae16e507748d5aaaf41aa03187a4155",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_audio.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "5836b7fc88c86556c2fed8f9d378bd92307bc63c6fd15529aa2c456c41cca048",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_bvh_reference.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "6dd2dacc2d362501008e454466ff39ddbd411861a58e68f98b3ffa0f9ebefb79",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_camera.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "dac347fdaa5206ce0c6871dace479c023a281bc14c3d4d7eab4211af4f30a4ad",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_data.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "aca315e987475879ab94293f8a92302b404db84dbd76c0d62759cfc5703921d8",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_export.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "bc8f6d3992acd28d75bc1922e87a80113107891aef21c3c39c5b40242d7ef934",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_external_motion.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "4102421b34877b9173242598256e8e632912f5b4ee9c58eed586f783d214602f",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_external_panel.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "f66845b13836cc8ec59e38d4c2a96ea42954ef15df1091109e93cee1dab404ea",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_hand_pose.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "hash_normalization": "LF for source text",
+      "sha256": "d20a6ede2443509fa98118c943aeb05679ca304915e7521165e7d57d14e926a8"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_i18n.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "3568474cc54459eb102d3bebe3e09614a7629be17dcb53ae57fe87f1b814fac4",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_import_adjustment.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "hash_normalization": "LF for source text",
+      "sha256": "ec2f2a12e5d4515a7dc8ee7c9142433a7d6d3ec6156def831208dda3eb902424"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_interaction_authoring.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "63e4cee64e629a3bf96910f927cf895466a391f8ba035107b21cf75d88e307ad",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_interval.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "hash_normalization": "LF for source text",
+      "sha256": "11f500119b7c53f7504b6fa08e4986caa074b08a1d690d41769aba3cc26cdebf"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_kimodo.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "49645ad9bb6e4ca5b145a6e90f4bc98cc4a20093d96a7bae2c539418c3033de9",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_kimodo_help.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "hash_normalization": "LF for source text",
+      "sha256": "5d7f50cb0f7ade2d86556760921570bdbb1167562813f3f9f41b0978e0b675fa"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_kimodo_jobs.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "6dc942edcd6ca9dd37d6a80b0bf0bd54d732113e6accc8c1cf5f9ce9edb6e154",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_kimodo_link.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "d95a3c401d358b6518b7dbefdf286df2a6ce41a20f6f5156edd348e57943485f",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_launcher.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "bba559e9cf9f2e256c6a24387c0459910b8094dcbd47c069e145ad5c076168c7",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_library.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "7e4883fb65e9e3d61ccba80dbfb615808e53fbbe232c27938432d415f5b8b166",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_licenses.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "51ee69c318c8f9ff306eef7b47281e01e59729c02d5372654dd2fb527f1edbdd",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_locales.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "c31b8dfb5a252b769e188aa19fa3b811a969ad9ebc25df8907ac49e547c59c65",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_manual.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "d9732b763c3be5dced05d899f18bd0179da53c6b3b78369b385a1a8a6865e42f",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_manual_images.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "hash_normalization": "LF for source text",
+      "sha256": "d825a7f619ab96f5c70b0a9e02053882033897396900b54c0b8a68795a38e4ad"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_mesh_review.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "579eff90df1154c0b6248b173bdd67a70e203d191f417ee86776b597e43d01e3",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_mocap_retarget.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "1b6b448ca30830ab61e944758d8b04970cadc7f8cfb7996684e16238fe190df8",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_motion.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "5498217b9b48a126e9ff84048b23293fef3339962e118f84fdfcf78f054ae66a",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_motion_data.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "7e00ab4d14747f4c8161c0725be3e02aa360b6bddfad4ba4ef2b88b0472d666e",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_motion_i18n.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "04dd9690436e9c8077afc6bcc199b51209c3fa7e73092bb222b7d8920d9243ea",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_motion_review.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "c000aaed82d37bab8f28e717829cf9e9a5a0ace6723c46e0e0828309c06cd31e",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_original_build.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "1f8cfc1d51963c0e042e3cb4b56e870f8684d0fce4d396b15e52687686e97fdb",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_original_library.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "85cd06a54319151e856fd9cfc8c505c9fa74bc369052e7e4b90755f8a4ee1c95",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_original_preview.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "28a86bbb6ccc62eb1f144c1f7018ec7317f751d8cba321616b4195ad1bfe09e6",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_original_verify.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "ffc047394c9e712d1a213a9ea9d43428a680c26aae006fc137f33a87ca426eb8",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_reference_retarget.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "f86ac3ef5cbc4be5e5b2f15fe72d72b2c8dc411e1fafbd934d31c46797169ec5",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_scene.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "a6a72359915606e09323360e96e575cd188818c50925f00b7dabd3a2e70a7cda",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_scene_data.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "8348633071309ca25740971b3d2a91a654c6494edeb334edbbb56bd2d238554f",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_scene_guide.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "80012691f33965afcd13407f83e5df8042daee3cf1aa7cd667c68db8b5c94160",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_scene_i18n.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "953a582efb518070580565480719ce26a5f79571e3fd7b33c475d4b0f703b0da",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_scene_kimodo.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "f45c524849762e12c79106f7d5eed2fc29ba909f5641246920526820c39525c5",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_scene_original.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "c455653080fa76e8d542a3cc5791d785fdd9e86e8f6117d81d6c072253ddfe8b",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_scene_plan.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "b2359dd9b4feca43c7f967a6b5a53440adc969d9d191bfc81c31e031599ab0fd",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_scene_verify.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "73988715b110f7cfbca0e77ecb871c911af1212cb5b04ba56e50ff75285dffab",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_settings.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "a1fdb5b7a7186c0e42916dfafdf20ad652d6e74a27a07fd36cb6351fc41bf08a",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_setup.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "42b48225a403345ff8d5b7e206353e3ffe2df13669678201239ba59d38e7c9c5",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_ue_guide.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "ddea958ed6d95eef41aca44aa0367005d0ed1d8278c770c0b47452dfa08dbcc4",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_ue_i18n.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "1c596c45b7db2d19787e02611bbce41c9d506bdf0f86f21f22d5cfacfcf5ed7c",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_ue_live.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "9d5310e1d75a85d44ebf4bb5a672835bd9a33c8c013b86f995d760f293276534",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_ue_pose.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "30ea694f052909e684225e6f913b877f1b901c898b1db8ed524798e38edcfcbd",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_ui_refresh.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "hash_normalization": "LF for source text",
+      "sha256": "9289b215e1d0f67439062c1fa6d11eda6a22324a1ec0bd8f77df3b3cd4e8de02"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_validate_fbx.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "5e948676f10b5177f0d96922b0d90bb1c59e129a1c54dae749a69abc80b1518d",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_verify.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "a27d2b9cd1f6732094a12dc72c64c06b492b50be653fbf864631e6a903d5beb9",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_verify_full_motion.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "da0c33672d40a02fe97cd439535fb00e81442800e13003779a41cf2501c1e7e3",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_verify_motion.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "cff8661a6025a93959e3298e1ff73b5027ca4745c0855983e02b09c76e4e5f96",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_verify_ue.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "ba13500947db22169f93183dbee73fac57969a587fb781957f4cf7248cb11087",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_video.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "6ffd4223f5a3c20c148382e7c43a06fd3971f89886f0a3609f58d29973433a80",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_video_refine.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "885bc13188151c53d3e5ced2687b3a8f8ec243091c18cf7dede80f64a64a9cbe",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_vmd.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "1d66db3271e7199c8ad122dc974802b2221e9c2a4c5bfb713fcd6f6cc15643ab",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_walk_authoring.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "db1da689fe18d4274cdc1536cf409e0f8b67b7c850468829cacfc598394ffba1",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/motionbricks/inference/builder.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "d16518b028068bb247ac537d6976dda5f4147385ce5e9a496684dc8782fa0e37",
+      "hash_normalization": "LF for source text"
+    },
+    {
+      "path": "outputs/motionbricks-studio/app/studio_ue_transport.py",
+      "contribution_scope": "MASATAKA-owned additions and modifications only; pre-existing and third-party code excluded",
+      "sha256": "4524a351eb51120e9f03d85af08dc0390fbe2ea7a26332d2d27d03a9e2363fdf",
+      "hash_normalization": "LF for source text"
+    }
+  ],
+  "updated": "2026-11-04"
+}

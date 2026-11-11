@@ -1,0 +1,51 @@
+MotionBricks Studio Ti — non-dance reference revisions (2026-11-02)
+
+These are adapted reference motions, not wholly independent motion capture
+by MASATAKA. Do not remove the following credits when distributing the data.
+The per-clip provenance and CATALOG.csv identify sources, intervals, SHA-256,
+licenses and modifications. No NVIDIA/Bones RigPlay sample animation was an
+input to this revision. Existing restricted samples are a separate collection.
+
+The 100STYLE Dataset — Ian Mason, Sebastian Starke, Taku Komura.
+https://www.ianxmason.com/100style/
+Creative Commons Attribution 4.0 International
+https://creativecommons.org/licenses/by/4.0/
+
+Open Motion Project — ACCAD / The Ohio State University.
+https://accad.osu.edu/research/motion-lab/mocap-system-and-data
+Creative Commons Attribution 3.0 Unported
+https://creativecommons.org/licenses/by/3.0/
+
+HOLD: Humanoid Omniskill Loco-manipulation Dataset (October 2026).
+RAI Institute and Boston Dynamics. Human performer: Jonathan Foster.
+https://github.com/rai-opensource/hold
+Creative Commons Attribution 4.0 International
+https://creativecommons.org/licenses/by/4.0/
+
+CMU Graphics Lab Motion Capture Database. Supported by NSF EIA-0196217.
+MotionBuilder-friendly BVH conversion: Bruce Hahne / cgspeed.com.
+http://mocap.cs.cmu.edu/
+https://raw.githubusercontent.com/una-dinosauria/cmu-mocap/master/READMEFIRST.txt
+The accompanying READMEFIRST reproduces CMU's free-use grant (including
+commercial use) and the converter's statement adding no restrictions. This
+grant is not a Creative Commons license.
+
+LazyVault.gif — tusfacti0n. Visual reference for the hand-vault trial only.
+https://commons.wikimedia.org/wiki/File:LazyVault.gif
+CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
+The resulting anatomical reconstruction is authored animation, not measured
+human mocap; its quality remains under review.
+
+Modifications by MotionBricks Studio Ti: source interval selection, 30 Hz
+resampling, BVH-axis and neutral-pose calibration, bent-frame knee-axis
+calibration, same-take foot/scale calibration, transfer to SOMA proportions,
+skinned-sole contact fitting, torso-width adjustment and relaxed finger poses.
+Some clips additionally use heading/path changes, joined takes, neck-only
+extraction/retiming, abdominal hand placement, obstacle-height adaptation or
+shared chair/passage placement. See each clip's provenance for details.
+
+No endorsement by the source creators is implied. Motion licenses do not
+replace separate conditions for the SOMA model, trained models, code, fonts,
+export SDKs or other dependencies. Quality candidates are not certified
+production animation or validated dynamics. UE model-specific application
+has not been verified for this revision.
